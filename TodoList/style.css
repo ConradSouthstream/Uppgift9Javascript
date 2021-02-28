@@ -1,0 +1,23 @@
+p{
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+.list{        
+    border: 0px solid tomato;
+    display: block;    
+    height: auto;    
+    margin-inline: auto auto;    
+}
+h1{
+    padding: 0;
+    margin: 0;
+}
+.done{
+    text-decoration: line-through;
+    color: brown;
+}
